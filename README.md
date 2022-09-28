@@ -1,4 +1,4 @@
-# Academic project 1 - Natour
+# Academic project 4 - Natour
 
 ## Table of Content
 * [Objective](#Objective)
